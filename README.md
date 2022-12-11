@@ -15,3 +15,12 @@ Es muy frecuente usar comandos en la ventana terminal de sistema, con ellos pode
 
 ### Descripción de la ventana terminal
 
+![](https://github.com/RamsesOrtiz36/Introduccion-a-linux/blob/main/ventana%20terminal%20de%20comandos%20en%20ubuntu.png)
+
+* Se accede con la combinación de teclas **Alt+Ctrl+t** o desde las aplicaciones (los 9 puntos abajo Iquierda de la pantalla)
+* Se tiene el Promt Apuntador, **nombrede usuario@nombre de maquina** en color verde, nos indica que esta listo para recibir comandos del usuario
+* Despues de los dos puntos ":" aparece la **vergulilla "~"** simbolo representante de la ubicación de directorio raiz.
+* Si usamos el comando **ls** nos mostrara todos los archivos que se encuentran en esa ubicación
+* las ubicaciones son los nombres de las carpetas separadas por "/" para indicar una subcarpeta, la ruta o path es la cadena de nombres de todas las carpetas que hay que abrir para llegar al archivo o programa que nos inteesa.
+
+
