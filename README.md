@@ -49,11 +49,11 @@ El permiso de usuario se puede cambiar a permiso de root y modificar archivos de
 
 Muestra valores de variables en terminal
 
-    echo
+    echo [Nombre arhivo.extension]
 
 Ubica archivo entregando la ruta
 
-    whereis
+    whereis [Nombre arhivo.extension]
 
 Cambia de directorio
 
@@ -69,12 +69,12 @@ Visualiza archivo sin modificarlo
 
 abre archivo o lo crea para editarlo
 
-    touch
+    touch [Nombre arhivo.extension]
 
 crea carpeta    
 
-    mkdir
+    mkdir [nombre carpeta]
 
 bora o renombra carpeta    
 
-    rmdir
+    rmdir [nombre carpeta]
