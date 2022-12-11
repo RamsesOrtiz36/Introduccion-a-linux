@@ -38,4 +38,43 @@ Estos coamndos respectivamente:
 + Cambia de directorio 
 
 ### Estructura de comandos
+[Permiso] [Programa o comando] [Opciones] [parametro]
 
+Para el comando ls [flags opcion] [directorio]
+Las opciones se indican con el guion"-" separado con un espacio
+
+El permiso de usuario se puede cambiar a permiso de root y modificar archivos del sistema para ello usamos el comando "sudo" = super user do.
+
+### Otros comandos
+
+Muestra valores de variables en terminal
+
+    echo
+
+Ubica archivo entregando la ruta
+
+    whereis
+
+Cambia de directorio
+
+    cd [ubicación]
+
+Entrega la ruta actual del prompt
+
+    pwd 
+
+Visualiza archivo sin modificarlo
+
+    cat[Nombre arhivo.extension]
+
+abre archivo o lo crea para editarlo
+
+    touch
+
+crea carpeta    
+
+    mkdir
+
+bora o renombra carpeta    
+
+    rmdir
